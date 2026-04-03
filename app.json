@@ -3,7 +3,7 @@
     "name": "RNCourse_part_4",
     "slug": "RNCourse_part_4",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
